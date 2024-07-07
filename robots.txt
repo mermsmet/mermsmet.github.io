@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mermsmet.github.io/sitemap.html.gz
+Sitemap: https://mermsmet.github.io/app/sitemap.html.gz
+Sitemap: https://mermsmet.github.io/assets/sitemap.html.gz
+Sitemap: https://mermsmet.github.io/css/sitemap.html.gz
+Sitemap: https://mermsmet.github.io/includes/sitemap.html.gz
+Sitemap: https://mermsmet.github.io/item/sitemap.html.gz
+Sitemap: https://mermsmet.github.io/src/sitemap.html.gz
